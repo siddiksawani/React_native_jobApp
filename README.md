@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Project Name** is a React Native mobile application that helps users find their perfect job from across the internet, all in one place. The app utilizes the power of React Native and Expo for development, while leveraging the JSearch API for fetching job data.
+The React-Native Job-IT is a React Native mobile application that helps users find their perfect job from across the internet, all in one place. The app utilizes the power of React Native and Expo for development, while leveraging the JSearch API for fetching job data.
 
 ## Screenshots
 
@@ -37,12 +37,12 @@ Follow the steps below to install and run the application:
 
 1. Clone this repository to your local machine.
    ```
-   git clone https://github.com/your-username/project-name.git
+   [git clone https://github.com/siddiksawani/React_native_jobApp.git
    ```
 
 2. Navigate to the project directory.
    ```
-   cd project-name
+   cd React_native_jobApp
    ```
 
 3. Install the project dependencies.
@@ -84,10 +84,6 @@ When contributing, please adhere to the following guidelines:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- Mention any libraries, tools, or resources that were used in the development of the app.
-- Give credit to any tutorials, articles, or code snippets that inspired or helped you in your development journey.
 
 ## Contact
 
